@@ -1,4 +1,4 @@
 
 public class UserInfo {
-	private 
+	String a = "ABC"; 
 }
